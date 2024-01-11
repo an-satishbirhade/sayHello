@@ -1,0 +1,25 @@
+{
+  "name": "sayhello",
+  "version": "1.0.0",
+  "description": "Testing npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an-satishbirhade/sayHello.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Satish Birhade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/an-satishbirhade/sayHello/issues"
+  },
+  "homepage": "https://github.com/an-satishbirhade/sayHello#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
